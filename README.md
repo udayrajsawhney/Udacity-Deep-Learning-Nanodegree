@@ -4,7 +4,7 @@
 
 ## Project One : First ANN 
 
-<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/2.png" width="180" height="370"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/2.png" width="180" height="600"/>
 
 Your First Neural Network
 - Introduction
