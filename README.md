@@ -4,7 +4,7 @@
 
 ## Project One : First ANN 
 
-<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/2.png" width="600" height="180"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/2.png" width="600" height="250"/>
 
 Your First Neural Network
 - Introduction
@@ -22,6 +22,9 @@ Welcome to the Convolutional Neural Networks (CNN) project! In this project, you
 
 ## Project Three : Simpsons Script Generator (RNN/LSTM) 
 
+
+<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/1.png" width="600" height="250"/>
+
 - Introduction
 In this project, you'll generate your own Simpsons TV scripts using RNNs. You'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
 
@@ -31,6 +34,9 @@ This way you can stay up to date with any changes we make by pulling the changes
 
 ## Project Four : Face Generation (CelebA Dataset) [Generative Adverserial Networks] 
 
+
+<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/3.png" width="600" height="250"/>
+
 - Introduction
 In this project, you'll use generative adversarial networks to generate new images of faces.
 
@@ -39,6 +45,9 @@ The project files can be found in our public GitHub repo, in the face_generation
 
 
 ## Project Five : Fly a quadcopter [Deep Reinforcemnet Learning]
+
+
+<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/4.png" width="600" height="250"/>
 
 - Project Submission
 In this project, you will design an agent that can fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! Try to apply the techniques you have learnt in this module to find out what works best, but also feel free to come up with innovative ideas and test them.
